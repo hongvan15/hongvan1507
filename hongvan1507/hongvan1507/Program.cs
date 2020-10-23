@@ -11,6 +11,9 @@ namespace hongvan1507
         static void Main(string[] args)
         {
             Console.Write("hello");
+            Console.Write("xin chào");
+
+
             Console.WriteLine();
         }
     }
